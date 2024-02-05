@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PageObjectModel" >
+	<parameter name="browser" value="Chrome"></parameter>
+  <test  name="PageObjectModel_LoginTest">
+	  
+	   <parameter name="websiteurl" value="https://www.itlearnner.com/"></parameter>
+	  	  
+     <classes>
+		
+         <class name="tests.Login_Test"/>
+    </classes>
+  </test> <!-- PageObjectModel_LoginTest -->
+</suite> <!-- PageObjectModel -->

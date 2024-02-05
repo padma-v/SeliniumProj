@@ -1,0 +1,12 @@
+Fri Jan 05 21:28:21 GMT 2024:Test 1 : signUpTestWithInvalidCredentials
+Fri Jan 05 21:28:27 GMT 2024:Clicked on Login Button
+Fri Jan 05 21:28:32 GMT 2024:Clicked on SignupWithEmail Button
+Fri Jan 05 21:28:33 GMT 2024:Submitted Login Successfully
+Fri Jan 05 21:28:35 GMT 2024:Test 2 : signUpTestWithValidCredentials
+Fri Jan 05 21:28:40 GMT 2024:Clicked on Login Button
+Fri Jan 05 21:28:45 GMT 2024:Clicked on SignupWithEmail Button
+Fri Jan 05 21:28:46 GMT 2024:Submitted Login Successfully
+Fri Jan 05 21:28:46 GMT 2024:Test 3 : signUpTestWithEmptyCredentials
+Fri Jan 05 21:28:52 GMT 2024:Clicked on Login Button
+Fri Jan 05 21:28:57 GMT 2024:Clicked on SignupWithEmail Button
+Fri Jan 05 21:28:57 GMT 2024:Submitted Login Successfully
